@@ -1,0 +1,16 @@
+com\santander\rest\demorest\WebServiceConfig.class
+com\santander\rest\kafka\KafkaProducerConfig.class
+com\santander\springsoap\gen\package-info.class
+com\santander\springsoap\gen\Country.class
+com\santander\springsoap\gen\ObjectFactory.class
+com\santander\rest\demorest\FtpTemplateConfig.class
+com\santander\springsoap\gen\GetCountryResponse.class
+com\santander\rest\kafka\KafkaTopicConfig.class
+com\santander\rest\backend\CountryRepository.class
+com\santander\springsoap\gen\GetCountryRequest.class
+com\santander\rest\kafka\KafkaController.class
+com\santander\rest\demorest\DemoRestApplication.class
+com\santander\rest\demorest\CountryEndpoint.class
+com\santander\springsoap\gen\Currency.class
+com\santander\rest\demorest\SimpleFilter.class
+com\santander\rest\kafka\KafkaConsumerConfig.class
